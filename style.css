@@ -91,6 +91,12 @@ footer {
   padding: 1rem;
   flex-wrap: wrap;
 }
-.card-img>img{
-  max-width: 60rem;
+
+
+/* Vue */
+[v-cloak] {
+  display: none;
+}
+.card{
+  width: 20rem;
 }
